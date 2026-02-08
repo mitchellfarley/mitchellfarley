@@ -1,6 +1,6 @@
 # Mitchell Farley
 
-Building enterprise tools at **TJX**. Prototyping ideas at **[Spoil](https://spoil.co)**.
+Currently working in enterprise tools at **TJX**. Prototyping ideas at **[Spoil](https://spoil.co)**.
 
 ---
 

@@ -1,3 +1,3 @@
 # Mitchell Farley
 
-**[Mitchellfarley.com](https://mitchellfarley.com)**.
+**[Mitchellfarley.com](https://mitchellfarley.com)**

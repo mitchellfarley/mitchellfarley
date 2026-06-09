@@ -1,26 +1,21 @@
 <div align="center">
 
-<br />
+<br /><br /><br /><br />
 
-<a href="https://mitchellfarley.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2800&pause=1200&color=E8350F&center=true&vCenter=true&width=560&lines=knock+knock.;the+door+is+at+mitchellfarley.com;%E2%86%92" alt="knock knock — the door is at mitchellfarley.com" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=200&size=22&duration=99999&pause=99999&color=111111&center=true&vCenter=true&width=520&lines=Mitchell+Farley" alt="Mitchell Farley" />
 
 <br />
-<br />
 
-<pre>
-                 .------------.
-                 |  .------.  |
-                 |  |      |  |
-                 |  |   •  |  |
-                 |  |      |  |
-                 |  '------'  |
-                 '------------'
-                       ||
-                ═══════╧╧═══════
-</pre>
+<sub><sub>SOMEWHERE&nbsp;&nbsp;&nbsp;WARM</sub></sub>
 
-<a href="https://mitchellfarley.com"><b>open →</b></a>
+<br /><br /><br />
+
+<sub>·</sub>
+
+<br /><br /><br />
+
+<a href="https://mitchellfarley.com"><kbd>&nbsp;&nbsp;mitchellfarley.com&nbsp;&nbsp;↗&nbsp;&nbsp;</kbd></a>
+
+<br /><br /><br /><br />
 
 </div>
